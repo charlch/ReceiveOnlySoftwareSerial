@@ -4,6 +4,7 @@
 
 I can take no credit for this code, just copied from https://forum.arduino.cc/index.php?topic=240741.0
 
+## Example:
 
 ```
 #include <ReceiveOnlySoftwareSerial.h>
